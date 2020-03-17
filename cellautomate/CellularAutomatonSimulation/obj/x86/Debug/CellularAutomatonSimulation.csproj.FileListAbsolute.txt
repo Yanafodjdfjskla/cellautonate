@@ -1,0 +1,9 @@
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\CellularAutomatonSimulation.csprojAssemblyReference.cache
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\CellularAutomatonSimulation.MainForm.resources
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\CellularAutomatonSimulation.csproj.GenerateResource.cache
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\CellularAutomatonSimulation.csproj.CoreCompileInputs.cache
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\jcln\Downloads\cell-auto-master\cell-auto-master\CellularAutomatonSimulation\obj\x86\Debug\WindowsFormsApplication1.pdb
